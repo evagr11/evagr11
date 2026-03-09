@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,4,9,14&height=200&section=header&text=Eva%20Gallardo&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desarrolladora%20Multiplataforma%20%7C%20Creative%20Coder&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,9,14&height=200&section=header&text=Eva%20Gallardo&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desarrolladora%20Multiplataforma%20%7C%20Creative%20Coder&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -159,7 +159,7 @@ public class EvaGallardo {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,50:ff00ff,100:7a2ff7&height=100&section=footer" width="100%"/>
 </div>
 
 <div align="center">
