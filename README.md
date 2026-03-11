@@ -20,7 +20,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Si+se+puede+programar%2C+lo+programo+%F0%9F%92%BB;Desde+apps+m%C3%B3viles+hasta+juegos+en+Unity;Dise%C3%B1o+en+Figma+%2B+C%C3%B3digo+%3D+%E2%9C%A8;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </div>
 
----
+
 
 ## 🌸 Sobre Mí
 
@@ -46,7 +46,7 @@ public class EvaGallardo {
 
 > 💡 **Mi filosofía:** Me da igual si es frontend, backend, móvil o web. Si implica resolver problemas con código, **count me in**.
 
----
+<br>
 
 ## 🛠️ Stack Tecnológico
 
@@ -81,8 +81,7 @@ public class EvaGallardo {
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white&color=FBBF24"/>
 </p>
 
-
----
+<br>
 
 ## 🚀 Proyectos Destacados
 
@@ -133,7 +132,7 @@ public class EvaGallardo {
   </tr>
 </table>
 
----
+<br>
 
 ## 📚 Repositorios de Aprendizaje
 
@@ -151,7 +150,7 @@ public class EvaGallardo {
 **Codebase** → Todo lo aprendido en Lenguaje de Marcas y Bases de Datos  
 **ADD-NDT** → Contenido práctico de la asignatura Acceso a Datos
 
----
+<br>
 
 ## 📊 GitHub Stats
 
@@ -159,7 +158,7 @@ public class EvaGallardo {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=evagr11&theme=radical&background=1a1625&border=1a1625&stroke=C084FC&ring=F0ABFC&fire=F472B6&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=C084FC&sideLabels=C084FC&dates=D8B4FE" alt="GitHub Streak"/>
 </div>
 
----
+<br>
 
 ## 🎯 Actualmente
 
@@ -167,8 +166,6 @@ public class EvaGallardo {
 - 🌱 Profundizando en **arquitecturas limpias** y **patrones de diseño**
 - 👯 Buscando colaborar en proyectos que me saquen de mi zona de confort
 - 💬 Pregúntame sobre: Android, Java, Kotlin, Figma, o cómo diseñar antes de codear
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,50:ff00ff,100:7a2ff7&height=100&section=footer" width="100%"/>
