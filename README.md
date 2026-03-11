@@ -50,25 +50,37 @@ public class EvaGallardo {
 
 ## 🛠️ Stack Tecnológico
 
-### Lenguajes & Frameworks
+### 💻 Lenguajes & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=C084FC" alt="Java"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&color=A78BFA" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=818CF8" alt="C#"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&color=34D399" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white&color=60A5FA" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&color=000000" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=C084FC"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&color=A78BFA"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=818CF8"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&color=34D399"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&color=A78BFA"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white&color=60A5FA"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&color=000000"/>
 </p>
 
-### Herramientas & Bases de Datos
+### 🗄️ Bases de Datos & Persistencia
 <p align="center">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&color=34D399" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&color=C084FC" alt="IntelliJ"/>
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white&color=F472B6" alt="DBeaver"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&color=FB923C" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=F87171" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white&color=FBBF24" alt="Draw.io"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=818CF8"/>
+  <img src="https://img.shields.io/badge/H2-003B57?style=for-the-badge&logo=h2&logoColor=white&color=A78BFA"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=34D399"/>
+  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white&color=FB923C"/>
+  <img src="https://img.shields.io/badge/JPA-4ECDC4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&color=F472B6"/>
 </p>
+
+### 🧰 Herramientas & Entornos
+<p align="center">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&color=34D399"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&color=C084FC"/>
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white&color=F472B6"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&color=FB923C"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=F87171"/>
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white&color=FBBF24"/>
+</p>
+
 
 ---
 
@@ -102,17 +114,17 @@ public class EvaGallardo {
       <h3 align="center">🛒 Marketplace Kotlin</h3>
       <div align="center">
         <a href="https://github.com/evagr11/AppMarkeplace" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Código-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
+          <img src="https://img.shields.io/badge/En_Desarrollo-34D399?style=for-the-badge&logo=firebase&logoColor=white" alt="En Desarrollo"/>
         </a>
         <p>Jetpack Compose • Kotlin • Arquitectura moderna</p>
         <p><em>App de comercio con diseño Material You y flujos UX completos</em></p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ iMirly (TFG)</h3>
+      <h3 align="center">⚡ iMirly (TFC)</h3>
       <div align="center">
         <a href="https://github.com/iMirly" target="_blank">
-          <img src="https://img.shields.io/badge/En_Desarrollo-34D399?style=for-the-badge&logo=firebase&logoColor=white" alt="En Desarrollo"/>
+          <img src="https://img.shields.io/badge/Ver_Código-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
         </a>
         <p>Flutter • Node.js • Firebase • Figma</p>
         <p><em>App multiplataforma de mercado de servicios profesionales</em></p>
