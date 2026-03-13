@@ -88,13 +88,13 @@ public class EvaGallardo {
 <table>
   <tr>
     <td width="50%">
-  <h3 align="center">🎫 App de Tickets de Error</h3>
+  <h3 align="center">💍 Sama Vintage</h3>
   <div align="center">
-    <a href="https://github.com/evagr11/AppTickets" target="_blank">
-      <img src="https://img.shields.io/badge/Ver_Código-C084FC?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
+    <a href="https://evagr11.github.io/sama-vintage/" target="_blank">
+      <img src="https://img.shields.io/badge/Ver_Página_Web-C084FC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Código"/>
     </a>
-    <p>Android Studio • Java • Diseño Figma</p>
-    <p><em>Sistema de gestión de incidencias y reporte de errores con interfaz intuitiva</em></p>
+    <p>HTML5 • CSS3  • JavaScript</p>
+    <p><em>Sitio web de joyería vintage 100% estático. Funciona en GitHub Pages sin servidor.</em></p>
   </div>
 </td>
     <td width="50%">
