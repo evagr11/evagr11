@@ -125,7 +125,7 @@ public class EvaGallardo {
         <a href="https://github.com/iMirly" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Código-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
         </a>
-        <p>Flutter • Node.js • Firebase • Figma</p>
+        <p>Kotlin • Jetpack Compose • Java 21 • Spring Boot 3 • PostgreSQL • Figma</p>
         <p><em>App multiplataforma de mercado de servicios profesionales</em></p>
       </div>
     </td>
