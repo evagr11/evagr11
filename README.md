@@ -165,9 +165,22 @@ public class EvaGallardo {
 
 <br>
 
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evagr11&theme=tokyonight" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evagr11&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=evagr11&theme=tokyonight&utcOffset=1" />
+</div>
+
+<br>
+
 ## 🎯 Actualmente
 
-- 🔭 Desarrollando **iMirly** (TFG DAM) - App de servicios profesionales
+- 🔭 Desarrollando **iMirly** (TFC DAM) - App de servicios profesionales
 - 🌱 Profundizando en **arquitecturas limpias** y **patrones de diseño**
 - 👯 Buscando colaborar en proyectos que me saquen de mi zona de confort
 - 💬 Pregúntame sobre: Android, Java, Kotlin, Figma, o cómo diseñar antes de codear
