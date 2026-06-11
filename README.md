@@ -12,7 +12,7 @@
   <a href="https://evagr.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&color=818CF8" alt="Itch.io"/>
   </a>
-  <a href="https://evagr11.github.io/Curriculum/" target="_blank">
+  <a href="https ://evagr11.github.io/Curriculum/" target="_blank">
     <img src="https://img.shields.io/badge/Ver_Página_Web-C084FC?style=for-the-badge&logo=google-chrome&logoColor=white&color=C084FC" alt="Version CV web/>
   </a>
 </div>
