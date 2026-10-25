@@ -56,14 +56,25 @@ public class EvaGallardo {
 
 ### 💻 Lenguajes & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0A0E27?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=C084FC"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&color=A78BFA"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=818CF8"/>
+  <img src="https://img.shields.io/badge/Python-0A0E27?style=for-the-badge&logo=python&logoColor=white&color=818CF8"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=60A5FA"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=F472B6"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white&color=60A5FA"/>
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white&color=A78BFA"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&color=34D399"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&color=A78BFA"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white&color=60A5FA"/>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&color=000000"/>
+</p>
+
+### 🌐 Web
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=FB923C"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=60A5FA"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=FBBF24"/>
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white&color=C084FC"/>
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white&color=818CF8"/>
 </p>
 
 ### 🗄️ Bases de Datos & Persistencia
@@ -74,6 +85,8 @@ public class EvaGallardo {
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white&color=FB923C"/>
   <img src="https://img.shields.io/badge/JPA-4ECDC4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&color=F472B6"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=60A5FA"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&color=C084FC"/>
 </p>
 
 ### 🧰 Herramientas & Entornos
@@ -84,6 +97,8 @@ public class EvaGallardo {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&color=FB923C"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=F87171"/>
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white&color=FBBF24"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=F87171"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=60A5FA"/>
 </p>
 
 <br>
@@ -128,7 +143,7 @@ public class EvaGallardo {
       <h3 align="center">⚡ iMirly (TFC)</h3>
       <div align="center">
         <a href="https://github.com/iMirly" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Código-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
+          <img src="https://img.shields.io/badge/Proyecto_Finalizado-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto finalizado"/>
         </a>
         <p>Kotlin • Jetpack Compose • Java 21 • Spring Boot 3 • PostgreSQL • Figma</p>
         <p><em>App multiplataforma de mercado de servicios profesionales</em></p>
@@ -150,10 +165,16 @@ public class EvaGallardo {
   <a href="https://github.com/evagr11/ADD-NDT">
     <img src="https://img.shields.io/badge/📁_ADD--NDT-A78BFA?style=for-the-badge&labelColor=1a1625" alt="ADD-NDT"/>
   </a>
+  <a href="https://evagr11.github.io/acceso-a-datos/">
+    <img src="https://img.shields.io/badge/📁_Acceso_a_Datos_2º-818CF8?style=for-the-badge&labelColor=1a1625" alt="Acceso a Datos"/>
+  </a>
 </p>
 
-**Codebase** → Todo lo aprendido en Lenguaje de Marcas y Bases de Datos  
-**ADD-NDT** → Contenido práctico de la asignatura Acceso a Datos
+**Codebase** → Ejercicios y proyectos de 1º DAM (Lenguaje de Marcas y Bases de Datos)  
+**ADD-NDT** → Contenido práctico de Acceso a Datos (1ª etapa)  
+**Acceso a Datos 2º** → Apuntes y tareas de 2º DAM, publicados como web
+
+<br>
 
 <br>
 
@@ -180,10 +201,11 @@ public class EvaGallardo {
 
 ## 🎯 Actualmente
 
-- 🔭 Desarrollando **iMirly** (TFC DAM) - App de servicios profesionales
+- 🔭 Desarrollando el **Proyecto Intermodular de 2º DAM**: una app de gestión de taller con versión de escritorio (**JavaFX**), app **Android** (Kotlin + Jetpack Compose) y backend **PHP + MySQL** conectados mediante una API REST
+- ✅ Terminado **iMirly** (TFC): marketplace multiplataforma de servicios profesionales
+- 🏫 Mantengo apps en uso real: el **inventario del gimnasio** del IES Lacimurga y un **TPV** para eventos
 - 🌱 Profundizando en **arquitecturas limpias** y **patrones de diseño**
-- 👯 Buscando colaborar en proyectos que me saquen de mi zona de confort
-- 💬 Pregúntame sobre: Android, Java, Kotlin, Figma, o cómo diseñar antes de codear
+- 💬 Pregúntame sobre: Android, Java, Kotlin, Figma, o cómo diseñar antes de programar
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,50:ff00ff,100:7a2ff7&height=100&section=footer" width="100%"/>
