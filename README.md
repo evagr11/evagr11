@@ -115,13 +115,13 @@ public class EvaGallardo {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🛒 Marketplace Kotlin</h3>
+      <h3 align="center">🎫 App Tickets</h3>
       <div align="center">
-        <a href="https://github.com/evagr11/AppMarkeplace" target="_blank">
-          <img src="https://img.shields.io/badge/En_Desarrollo-34D399?style=for-the-badge&logo=firebase&logoColor=white" alt="En Desarrollo"/>
+        <a href="https://github.com/evagr11/AppTickets" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Código-34D399?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/>
         </a>
-        <p>Jetpack Compose • Kotlin • Arquitectura moderna</p>
-        <p><em>App de comercio con diseño Material You y flujos UX completos</em></p>
+        <p>Java • Android Studio • Gradle • Persistencia local</p>
+        <p><em>App Android nativa para crear, editar y filtrar tickets de soporte e incidencias</em></p>
       </div>
     </td>
     <td width="50%">
