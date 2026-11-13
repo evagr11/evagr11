@@ -26,7 +26,7 @@
 
 
 
-## 🌸 Sobre Mí
+## Sobre Mí
 
 ```java
 public class EvaGallardo {
@@ -35,7 +35,7 @@ public class EvaGallardo {
     String ubicacion = "Granada // Badajoz";
     
     String[] pasiones = {
-        "Programar cualquier cosa (¡hasta semáforos! 🚦)",
+        "Programar cualquier cosa (¡hasta semáforos!)",
         "Diseño UI/UX en Figma",
         "Aportar perspectivas diferentes al equipo",
         "Convertir ideas en código funcional"
@@ -48,13 +48,13 @@ public class EvaGallardo {
 }
 ```
 
-> 💡 **Mi filosofía:** Me da igual si es frontend, backend, móvil o web. Si implica resolver problemas con código, **count me in**.
+> **Mi filosofía:** Me da igual si es frontend, backend, móvil o web. Si implica resolver problemas con código, **count me in**.
 
 <br>
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
-### 💻 Lenguajes & Frameworks
+### Lenguajes & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=C084FC"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&color=A78BFA"/>
@@ -68,7 +68,7 @@ public class EvaGallardo {
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&color=000000"/>
 </p>
 
-### 🌐 Web
+### Web
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=FB923C"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=60A5FA"/>
@@ -77,7 +77,7 @@ public class EvaGallardo {
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white&color=818CF8"/>
 </p>
 
-### 🗄️ Bases de Datos & Persistencia
+### Bases de Datos & Persistencia
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=818CF8"/>
   <img src="https://img.shields.io/badge/H2-003B57?style=for-the-badge&logo=h2&logoColor=white&color=A78BFA"/>
@@ -89,7 +89,7 @@ public class EvaGallardo {
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&color=C084FC"/>
 </p>
 
-### 🧰 Herramientas & Entornos
+### Herramientas & Entornos
 <p align="center">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&color=34D399"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&color=C084FC"/>
@@ -103,12 +103,12 @@ public class EvaGallardo {
 
 <br>
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 <table>
   <tr>
     <td width="50%">
-  <h3 align="center">💍 Sama Vintage</h3>
+  <h3 align="center">Sama Vintage</h3>
   <div align="center">
     <a href="https://evagr11.github.io/sama-vintage/" target="_blank">
       <img src="https://img.shields.io/badge/Ver_Página_Web-C084FC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Código"/>
@@ -118,7 +118,7 @@ public class EvaGallardo {
   </div>
 </td>
     <td width="50%">
-      <h3 align="center">🎮 Juego Táctico Unity</h3>
+      <h3 align="center">Juego Táctico Unity</h3>
       <div align="center">
         <a href="https://evagr.itch.io/real-time-tactics" target="_blank">
           <img src="https://img.shields.io/badge/Jugar_en_Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/>
@@ -130,7 +130,7 @@ public class EvaGallardo {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🎫 App Tickets</h3>
+      <h3 align="center">App Tickets</h3>
       <div align="center">
         <a href="https://github.com/evagr11/AppTickets" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Código-34D399?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/>
@@ -140,7 +140,7 @@ public class EvaGallardo {
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ iMirly (TFC)</h3>
+      <h3 align="center">iMirly (TFC)</h3>
       <div align="center">
         <a href="https://github.com/iMirly" target="_blank">
           <img src="https://img.shields.io/badge/Proyecto_Finalizado-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto finalizado"/>
@@ -154,19 +154,19 @@ public class EvaGallardo {
 
 <br>
 
-## 📚 Repositorios de Aprendizaje
+## Repositorios de Aprendizaje
 
 > Repositorios donde documento mi evolución técnica curso por curso
 
 <p align="center">
   <a href="https://github.com/evagr11/codebase">
-    <img src="https://img.shields.io/badge/📁_Codebase-C084FC?style=for-the-badge&labelColor=1a1625" alt="Codebase"/>
+    <img src="https://img.shields.io/badge/Codebase-C084FC?style=for-the-badge&labelColor=1a1625" alt="Codebase"/>
   </a>
   <a href="https://github.com/evagr11/ADD-NDT">
-    <img src="https://img.shields.io/badge/📁_ADD--NDT-A78BFA?style=for-the-badge&labelColor=1a1625" alt="ADD-NDT"/>
+    <img src="https://img.shields.io/badge/ADD--NDT-A78BFA?style=for-the-badge&labelColor=1a1625" alt="ADD-NDT"/>
   </a>
   <a href="https://evagr11.github.io/acceso-a-datos/">
-    <img src="https://img.shields.io/badge/📁_Acceso_a_Datos_2º-818CF8?style=for-the-badge&labelColor=1a1625" alt="Acceso a Datos"/>
+    <img src="https://img.shields.io/badge/Acceso_a_Datos_2º-818CF8?style=for-the-badge&labelColor=1a1625" alt="Acceso a Datos"/>
   </a>
 </p>
 
@@ -178,7 +178,7 @@ public class EvaGallardo {
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=evagr11&theme=radical&background=1a1625&border=1a1625&stroke=C084FC&ring=F0ABFC&fire=F472B6&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=C084FC&sideLabels=C084FC&dates=D8B4FE" alt="GitHub Streak"/>
@@ -199,19 +199,19 @@ public class EvaGallardo {
 
 <br>
 
-## 🎯 Actualmente
+## Actualmente
 
-- 🔭 Desarrollando el **Proyecto Intermodular de 2º DAM**: una app de gestión de taller con versión de escritorio (**JavaFX**), app **Android** (Kotlin + Jetpack Compose) y backend **PHP + MySQL** conectados mediante una API REST
-- ✅ Terminado **iMirly** (TFC): marketplace multiplataforma de servicios profesionales
-- 🏫 Mantengo apps en uso real: el **inventario del gimnasio** del IES Lacimurga y un **TPV** para eventos
-- 🌱 Profundizando en **arquitecturas limpias** y **patrones de diseño**
-- 💬 Pregúntame sobre: Android, Java, Kotlin, Figma, o cómo diseñar antes de programar
+- Desarrollando el **Proyecto Intermodular de 2º DAM**: una app de gestión de taller con versión de escritorio (**JavaFX**), app **Android** (Kotlin + Jetpack Compose) y backend **PHP + MySQL** conectados mediante una API REST
+- Terminado **iMirly** (TFC): marketplace multiplataforma de servicios profesionales
+- Mantengo apps en uso real: el **inventario del gimnasio** del IES Lacimurga y un **TPV** para eventos
+- Profundizando en **arquitecturas limpias** y **patrones de diseño**
+- Pregúntame sobre: Android, Java, Kotlin, Figma, o cómo diseñar antes de programar
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,50:ff00ff,100:7a2ff7&height=100&section=footer" width="100%"/>
 </div>
 
 <div align="center">
-  <b>✨ Siéntete libre de explorar mis repos y dejar una estrella si algo te gusta ✨</b>
+  <b>Siéntete libre de explorar mis repos y dejar una estrella si algo te gusta </b>
 </div>
 
